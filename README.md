@@ -21,3 +21,7 @@ The Controller Base roughly corresponds to Rails' ActionController::Base, provid
 Gives the ability to get and set cookies.
 
 # jQuery-Lite
+
+This is a lightweight framework built using DOMs native API. All of the basic jQuery methods were built including: (find, parent, children, html, empty, etc.)
+
+Plug and play functionality, can work as a replacement for jQuery for most situations.
